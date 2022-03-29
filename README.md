@@ -14,5 +14,5 @@ Untuk panduan tugas dataset dapat dilihat [disini](https://github.com/RyhanAZB/p
    -  Buatlah folder dengan nama "Tugas2_Django" untuk mengerjakan tugasnya
 
 
-### NB: Buatlah Branch dengan nama 'unmerge' lalu kerjakan dengan remote branch tersebut. Buat 2 folder terpisah untuk 2 tugas diatas. Jika ada yang tidak dipahami bisa langsung chat di grup dan tag MRA,MTH atau WDA.
+### NB:Jika ada yang tidak dipahami bisa langsung chat di grup dan tag MRA,MTH atau WDA.
 ### #FromZeroToHero
