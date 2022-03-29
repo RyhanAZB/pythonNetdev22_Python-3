@@ -1,4 +1,4 @@
-# TUGAS KLOTER 2 PYTHON NETDEV22 Kel 1
+# TUGAS KLOTER 3 PYTHON NETDEV22 
 ## Panduan Tugas
 Untuk panduan tugas dapat dilihat [disini](https://github.com/RyhanAZB/pythonNetdev22_Python-3/blob/main/Pedoman%20Tugas%20Python%233.pdf)
 ## Prosedur Pengerjaan Tugas Dataset
